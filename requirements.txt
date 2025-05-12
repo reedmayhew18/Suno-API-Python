@@ -1,0 +1,16 @@
+PyYAML
+jinja2
+openai
+sse-starlette
+pytest
+pytest-asyncio
+httpx
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+python-dotenv
+pydantic
+pydantic-settings
+loguru
+APScheduler
